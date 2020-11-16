@@ -60,7 +60,7 @@ int main()
         board[62] = 19;
         board[56] = 53;
         board[49] = 11;
-        board[48] = 26;
+        board[47] = 26;
         board[16] = 6;
     }
 
